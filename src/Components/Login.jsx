@@ -104,17 +104,17 @@ const Login = () => {
               Log in
             </button>
             <div className="text-right mt-2">
-              <a href="#" className="text-purple-600 hover:underline">
+              <p className="text-purple-600 hover:underline">
                 Forgot password?
-              </a>
+              </p>
             </div>
           </form>
           <div className="mt-6 text-center">
             <p>
               Don’t have an account?{" "}
-              <a href="#" className="text-purple-600 hover:underline">
+              <p className="text-purple-600 hover:underline">
                 Sign up now
-              </a>
+              </p>
             </p>
           </div>
         </div>
